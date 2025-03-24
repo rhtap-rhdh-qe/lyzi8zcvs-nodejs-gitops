@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lyzi8zcvs-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lyzi8zcvs-nodejs
